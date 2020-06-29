@@ -1,0 +1,95 @@
+body { margin: 0; background-color: rgba(0, 153, 208, 0.2);}
+img { position:absolute; width: 1350px; height: 253px; }
+#menu ul {
+    padding:0px;
+    margin:0px;
+    background-color:#086fd6;
+    list-style:none;
+}
+#menu { margin-top: 250px; position: absolute; }
+#menu ul li { display: inline; width: 100%; height: 100%;}
+#menu ul li a {
+    padding: 15px 136px;
+    display: inline-block;
+	border-bottom: none;
+	font-size: 20px;
+	font-family: calibri;
+
+    /* visual do link */
+    background-color:#086fd6;
+    color: #333;
+    text-decoration: none;
+   	transition: background-color 1s;
+	
+}
+#menu ul li a:hover {
+    background-color:#ffffff;
+    color: black;
+    
+}
+
+.content-text {
+    font-size: 13px;
+    margin-top: 440px;
+    margin-left: 150px;
+    font-family: calibri;
+	position: absolute;
+    
+}
+
+.content-text2 {
+    font-size: 27px;
+    margin-left: 150px;
+    font-family: calibri;
+    margin-top: 50px;
+    margin-top: 50px;
+	position: absolute;
+}
+
+.imagem {
+    margin-top:440px;
+    margin-left: 115px;
+    height: 245px;
+	width: 390px;
+	position: absolute;
+	border-radius: 9px;
+}
+
+.imagem2{
+    margin-top: 40px;
+    margin-left: 120px;
+    width: 390px;
+	height: 245px;
+	position: absolute;
+	border-radius: 9px;
+}
+
+.col-lg-6 {
+    width: 41%;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+}
+
+.col-lg-12 {
+    width: 94%;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+}
+
+.projeto {
+	font-family: verdana;
+}
+
+#rodape {position: absolute; width: 1350px; height: 150px; background-color: #ffffff; margin-top: 1200px;}
+#rodape2 {position: absolute; width: 1350px; height: 25px; background-color: #086fd6; margin-top: 1350px;}
+#rodape3 {position: absolute; width: 1350px; height: 3px; background-color: #086fd6; margin-top: 1200px;}
+#nomes { position: absolute; margin-top: 1220px; margin-left: 20px;font-family: calibri; font-size: 20px; }
+#agradecimento {position: absolute; margin-top: 1355px; margin-left: 15px; font-family: calibri; font-size: 12px;}
+.unip { position: absolute; margin-top: 1180px; margin-left: -350px; height: 200px; width:300px; }
+
